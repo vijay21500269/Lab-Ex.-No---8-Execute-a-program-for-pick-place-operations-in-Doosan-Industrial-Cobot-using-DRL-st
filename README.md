@@ -40,7 +40,7 @@ Procedure:
 
 
 ## Program 
-![pic 1]()
+![pic 1](https://github.com/vijay21500269/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/blob/main/Pickplace1.png)
 ![pic 2]()
 ![pic 3]()
 
